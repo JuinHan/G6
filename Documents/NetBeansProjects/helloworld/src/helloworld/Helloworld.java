@@ -18,6 +18,8 @@ public class Helloworld {
         // TODO code application logic here
         System.out.println("hello world");
         System.out.println("v2");
+        System.out.println("hello world 2"
+                + "");
     }
     
 }
